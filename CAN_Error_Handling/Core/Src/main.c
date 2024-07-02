@@ -21,7 +21,9 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+/*
+ * Enjoy Your Life!!!
+ */
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
