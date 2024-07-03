@@ -24,9 +24,7 @@
 /*
  * Enjoy Your Life!!!
  */
-/*
- * Enjoy Your Life Again!!!
- */
+
 
 /* USER CODE END Includes */
 
